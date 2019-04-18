@@ -1,0 +1,4 @@
+1.  Application is built on 
+REACT + Redux + Javascript + MySql
+
+2. Application consumes both external dummy api via REST and it also consumes data from JSON which i am sending in postActions.js.           
